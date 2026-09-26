@@ -1,4 +1,4 @@
-# 🚀 Crypto Market Analysis Platform
+# 🚀 Crypto Market Analysis Platform.
 
 > **Production-grade data engineering project** implementing a Medallion Architecture on Databricks + AWS S3 for real-time cryptocurrency market analysis and AI-ready dataset generation.
 
